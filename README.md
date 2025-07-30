@@ -11,4 +11,8 @@ Se van viendo las diferencias en cada campo y que aspecto y característica fue 
 Luego realizamos una serie de visualizaciones con gráficos.
 
 #Tencnologías: R(sf, dplyr, ggplot2, lubridate, tidyverse)
-#Fuente de Datos: Datasets descargados desde:  
+#Fuente de Datos: Datasets descargados desde: https://data.buenosaires.gob.ar/dataset/casos-covid-19
+
+
+Para ejecutarlo hay que tener instalados los paquetes: sf, dplyr, ggplot2, tidyverse
+Y ejecutar las librerías: sf, dplyr, ggplot2, lubridate, tidyverse
